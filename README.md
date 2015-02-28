@@ -1,7 +1,11 @@
 # wonderlic/nodejs
 
-##### github repo: [https://github.com/wonderlic/docker-nodejs](https://github.com/wonderlic/docker-nodejs)
-##### docker hub repo: [https://registry.hub.docker.com/u/wonderlic/nodejs/](https://registry.hub.docker.com/u/wonderlic/nodejs/)
+### Links
+
+* github: [https://github.com/wonderlic/docker-nodejs](https://github.com/wonderlic/docker-nodejs)
+* docker hub: [https://registry.hub.docker.com/u/wonderlic/nodejs/](https://registry.hub.docker.com/u/wonderlic/nodejs/)
+
+### Description
 
 This is a minimal docker image that contains just enough to run the node executable.
 It does not contain npm.
